@@ -4,12 +4,15 @@ Created a Python program featuring two classes, Hexagon and Square, to analyze g
 Hexagon:
 
 Calculates and displays area, perimeter, and sum of angles.
+
 Square:
 
 Computes and showcases area and perimeter.
+
 User Interaction:
 
 Continuous menu loop for personalized geometric insights.
+
 Implementation:
 
 User-friendly, employing consistent function names.
